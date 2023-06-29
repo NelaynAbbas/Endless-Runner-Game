@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\Nalain Abbas\source\repos\GAME\GAME\test.cpp(518,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nalain Abbas\source\repos\GAME\GAME\test.cpp(582,21): warning C4305: '=': truncation from 'int' to 'bool'
+C:\Users\Nalain Abbas\source\repos\GAME\GAME\test.cpp(523,14): warning C4101: 'inp': unreferenced local variable
+  GAME.vcxproj -> C:\Users\Nalain Abbas\source\repos\GAME\Debug\GAME.exe
