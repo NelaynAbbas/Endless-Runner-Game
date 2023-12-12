@@ -440,9 +440,9 @@ void credits()
     cout << "\t\t\t\t*                                            *\n";
     cout << "\t\t\t\t*                                            *\n";
     cout << "\t\t\t\t*               GAME CREDITS                 *\n";
-    cout << "\t\t\t\t*        22F-3224        Mahrukh             *\n";
-    cout << "\t\t\t\t*        22F-3279        Sania               *\n";
-    cout << "\t\t\t\t*        22F-3441        Wareesha            *\n";
+    cout << "\t\t\t\t*        21F-XXXX        Nelayn              *\n";
+    cout << "\t\t\t\t*        21F-XXXX        Abbas               *\n";
+    cout << "\t\t\t\t*        21F-XXXX        Malik               *\n";
     cout << "\t\t\t\t*                                            *\n";
     cout << "\t\t\t\t*                                            *\n";
     cout << "\t\t\t\t**********************************************\n";
